@@ -2,7 +2,7 @@
 This repository contains the Jupyter notebook and helper Python files for my Udacity's Deep Learning Nanodegree project.
 
 Description:
-A receurent neural network is trained to generate TV scripts in the style of dialogue from Seinfeld.
+A recurent neural network is trained to generate TV scripts in the style of dialogue from Seinfeld.
 
 ## Dependencies
 
